@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Maher Farghali
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning .NET MVC
+- 📫 You can reach me via maherfarghalii@gmail.com
